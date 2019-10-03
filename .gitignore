@@ -1,0 +1,8 @@
+.DS_Store
+.idea/*
+Library/bin/*
+Library/obj/*
+UnitTest/bin/*
+UnitTest/obj/*
+.vscode/*
+EmployeeHierarchy.sln.DotSettings.user
